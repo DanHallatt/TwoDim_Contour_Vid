@@ -67,7 +67,7 @@ If you have a suggestion that would make this better, please fork the repo and c
 
 Dan Hallatt - daniel.hallatt@univ-lille.fr
 
-Project Link: [https://github.com/DanHallatt/TwoDim_Contour_Vid](https://github.com/TwoDim_Contour_Vid)
+Project Link: [https://github.com/DanHallatt/TwoDim_Contour_Vid](https://github.com/DanHallatt/TwoDim_Contour_Vid)
 
 Associated Institute Link: https://umet.univ-lille.fr/MTP/index.php?lang=fr
 
